@@ -1,5 +1,6 @@
 /*
-rokuyon LitFill <email>
+cli app for base64 codec
+rokuyon LitFill <marrazzy54@gmail.com>
 */
 package main
 
